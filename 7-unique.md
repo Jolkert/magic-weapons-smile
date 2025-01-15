@@ -1,6 +1,5 @@
 # Unique
 ## Draakhorn
-Wondrous Item
 Source: The Rise of Tiamat
 
 *Wondrous item, unique*
@@ -30,7 +29,6 @@ As a bonus action, a creature can turn a special key to arm the grenade. Once ar
 The grenade explodes immediately if a creature places it in an extradimensional space or teleports while in possession of it. The effects of the explosion will be felt at both the origin and terminus of the teleportation, but only affecting all creatures within 30 feet of either location.
 
 ## Mask of the Dragon Queen
-Wondrous Item (Attuned)
 Source: Tyranny of Dragons
 
 *Wondrous item, unique (requires attunement)*
@@ -38,4 +36,3 @@ Source: Tyranny of Dragons
 Individually, the five [Dragon Masks](http://dnd5e.wikidot.com/wondrous-items:dragon-mask) resemble the dragons they are named for. When two or more of the dragon masks are assembled, however, they transform magically into the *Mask of the Dragon Queen*. Each mask shrinks to become the modeled head of a chromatic dragon, appearing to roar its devotion to Tiamat where all the masks brought together are arranged crown-like on the wearer's head. Below the five masks, a new mask shapes itself, granting the wearer a draconic visage that covers the face, neck, and shoulders.
 
 While you are attuned to and wear this mask, you can have any of the properties from any one mask. Additionally, you gain the Damage Absorption from each of the five [Dragon Masks](http://dnd5e.wikidot.com/wondrous-items:dragon-mask), and you gain five uses of the Legendary Resistance property.
-

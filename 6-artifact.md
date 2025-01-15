@@ -1,6 +1,5 @@
 # Artifact
 ## Adze of Annam
-Weapon (Attuned)
 Source: Bigby Presents - Glory of the Giants
 
 *Weapon (Greataxe), Artifact (Requires Attunement)*
@@ -18,7 +17,6 @@ This massive adze is said to have been wielded by All-Father Annam, not as a wea
 **Divine Mattock.** As an action, you can call upon the might of the All-Father and use the adze to cast [Move Earth](http://dnd5e.wikidot.com/spell:move-earth) or [Fabricate](http://dnd5e.wikidot.com/spell:fabricate). Once this property is used, it can’t be used again until the next dawn.
 
 ## Akmon, Hammer of Purphoros
-Weapon (Attuned)
 Source: Mythic Odysseys of Theros
 
 *Weapon (warhammer), artifact (requires attunement)*
@@ -44,7 +42,6 @@ See "Artifacts" in chapter 7 of the *Dungeon Master's Guide* for details on rand
 ***Destroying the Hammer.*** To destroy the hammer, it must be taken to the realm of Tizerus, in the Underworld. There it must be coated in clay from the Mire of Punishment. The heat of the hammer hardens the clay, which fuses to it after one month. Once fully hardened, the clay-covered hammer must be swallowed and digested by a kraken.
 
 ## Axe of the Dwarvish Lords
-Weapon (Attuned)
 Source: Dungeon Master's Guide
 
 *Weapon (battleaxe), artifact (requires attunement)*
@@ -80,7 +77,6 @@ Later, in a dark era marked by treachery and wickedness, the axe was lost in a b
 **Destroying the Axe.** The only way to destroy the axe is to melt it down in the *Earthheart Forge*, where it was created. It must remain in the burning forge for fifty years before it finally succumbs to the fire and is consumed.
 
 ## Baba Yaga's Mortar and Pestle
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, artifact (requires attunement)*
@@ -112,7 +108,6 @@ You can also use the artifact as alchemist's supplies, brewer's supplies, cook's
 ***Destroying the Mortar and Pestle.*** The mortar and pestle are destroyed if they are crushed underfoot by the *Dancing Hut of Baba Yaga* or by Baba Yaga herself.
 
 ## Bigby's Beneficent Bracelet
-Wondrous Item (Attuned)
 Source: Bigby Presents - Glory of the Giants
 
 *Wondrous Item, Artifact (Requires Attunement)*
@@ -136,7 +131,6 @@ The bracelet can create up to three copies and regains all expended uses at dawn
 **Helpful Hand.** As an action, you can use the bracelet to cast [Bigby's Hand](http://dnd5e.wikidot.com/spell:bigbys-hand) as a 9th-level spell (spell attack bonus +13). When you cast the spell this way, the spell doesn’t require concentration. Once this property is used, it can’t be used again until the next dawn.
 
 ## Blade of Avernus
-Weapon (Attuned)
 Source: Baldur's Gate - Descent into Avernus
 
 *Weapon (longsword), artifact (requires attunement)*
@@ -156,7 +150,6 @@ Source: Baldur's Gate - Descent into Avernus
 **Destroying the Sword.** The sword can be destroyed by casting it into the River Styx or melting it down in the forge that created it.
 
 ## Blade of Broken Mirrors
-Weapon (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Weapon (dagger), artifact (requires attunement by a humanoid)*
@@ -188,7 +181,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 * While holding the dagger, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until you stop holding the dagger, until you attack or cast a spell that forces a creature to make a saving throw, or until you use a bonus action to become visible again.
 
 ## Book of Exalted Deeds
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, artifact (requires attunement by a creature of good alignment)*
@@ -215,7 +207,6 @@ Benefits granted by the *Book of Exalted Deeds* last only as long as you strive 
 ***Destroying the Book.*** It is rumored that the *Book of Exalted Deeds* can't be destroyed as long as good exists in the multiverse. However, drowning the book in the River Styx removes all writing and imagery from its pages and renders the book powerless for 1d100 years.
 
 ## Book of Vile Darkness
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, artifact (requires attunement)*
@@ -260,7 +251,6 @@ A creature attuned to the book for one hundred years can unearth a phrase hidden
 If all evil in the multiverse is wiped out, the book turns to dust and is forever destroyed.
 
 ## Book of Vile Darkness (Variant)
-Wondrous Item (Attuned)
 Source: Keys from the Golden Vault
 
 *Wondrous item, Artifact (Requires Attunement)*
@@ -304,7 +294,6 @@ A creature attuned to the book for one hundred years can unearth a phrase hidden
 If all evil in the multiverse is wiped out, the book turns to dust and is forever destroyed.
 
 ## Crook of Rao
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, artifact (requires attunement)*
@@ -340,7 +329,6 @@ Ages ago, the serene god Rao created a tool to shield his fledgling faithful aga
 ***Destroying or Repairing the Crook.*** The *Crook of Rao* can either be destroyed or repaired by journeying to Mount Celestia and obtaining a tear from the eternally serene god Rao. One way to make the emotionless god cry would be to reunite Rao with the spirit of his first worshiper who sought revelations beyond the multiverse long ago. The Crook dissolves if immersed in the god's tear for a year and a day. If washed in the tear daily for 30 days, the Crook loses its Failing Matrix property.
 
 ## Crown of Lies
-Wondrous Item (Attuned)
 Source: Vecna - Eve of Ruin
 
 *Wondrous Item, Artifact (Requires Attunement)*
@@ -363,7 +351,6 @@ While wearing this crown in your true form, you can choose for the crown to be v
 **Destroying the Crown.** If a creature wearing the crown is killed by the creature it is disguised as, the crown disintegrates and is destroyed.
 
 ## Daoud's Wondrous Lantern
-Wondrous Item (Attuned)
 Source: Quests from the Infinite Staircase
 
 *Wondrous item, artifact (requires attunement)*
@@ -403,7 +390,6 @@ Lenses
 **Destroying the Lantern.** To destroy the lantern, the creature attuned to it must forsake all material possessions except for the lantern and common clothes. Then the creature must willingly snuff the lantern's flame with the intention to destroy the artifact. When its flame is snuffed in this way, the lantern's gold corrodes, the lenses and remaining gemstone fuel turn to worthless sand, and the creature attuned to it is spared.
 
 ## Dekella, Bident of Thassa
-Weapon (Attuned)
 Source: Mythic Odysseys of Theros
 
 *Weapon (trident), artifact (requires attunement)*
@@ -431,7 +417,6 @@ Additionally, you can cast the [Dominate Monster](http://dnd5e.wikidot.com/spell
 ***Destroying the Bident.*** To destroy the bident, it must be heated by the breath of an ancient red dragon and then, while still hot, immersed in the Tartyx River.
 
 ## Demonomicon of Iggwilv
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, artifact (requires attunement)*
@@ -461,7 +446,6 @@ When the tome is discovered, it has 1d4 fiends occupying its pages, typically an
 ***Destroying the Demonomicon.*** To destroy the book, six different demon lords must each tear out a sixth of the book's pages. If this occurs, the pages reappear after 24 hours. Before all those hours pass, anyone who opens the book's remaining binding is transported to a nascent layer of the Abyss that lies hidden within the book. At the heart of this deadly, semi-sentient domain lies a long-lost artifact, Fraz-Urb'luu's Staff. If the staff is dragged from the pocket plane, the tome is reduced to a mundane and quite out-of-date copy of the *Tome of Zyx*, the work that served as the foundation for the *Demonomicon*. Once the staff emerges, the demon lord Fraz-Urb'luu instantly knows.
 
 ## Ephixis, Bow of Nyela
-Weapon (Attuned)
 Source: Mythic Odysseys of Theros
 
 *Weapon (shortbow), artifact (requires attunement)*
@@ -489,7 +473,6 @@ See "Artifacts" in chapter 7 of the *Dungeon Master's Guide* for details on rand
 ***Destroying the Bow.*** The bow can't be destroyed without first destroying all its arrows. The winter arrow must be fed to a cerberus on the winter solstice. The spring arrow must be planted at the base of a Black Oak of Asphodel on the spring equinox. The summer arrow must be broken by a sea giant on the summer solstice. Then the autumn arrow must be shot into the carcass of a hydra on the autumnal equinox. When all four arrows are destroyed, the bow and quiver dissolve into dust.
 
 ## Eye and Hand of Vecna
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, artifact (requires attunement)*
@@ -536,7 +519,6 @@ To attune to the hand, you must lop off your left hand at the wrist and the pres
 ***Destroying the Eye and Hand.*** If the *Eye of Vecna* and the *Hand of Vecna* are both attached to the same creature, and that creature is slain by the Sword of Kas, both the eye and the hand burst into flame, turn to ash, and are destroyed forever. Any other attempt to destroy the eye or hand seems to work, but the artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
 
 ## Grovelthrash
-Weapon (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Weapon (warhammer), artifact (requires attunement)*
@@ -569,7 +551,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 * As an action, you can use the warhammer to cast one of the following spells from it (save DC 17): [Earthquake](http://dnd5e.wikidot.com/spell:earthquake), [Meld into Stone](http://dnd5e.wikidot.com/spell:meld-into-stone), or [Stone Shape](http://dnd5e.wikidot.com/spell:stone-shape). Once a spell has been cast using the warhammer, that spell can't be cast from the warhammer again until the next dawn.
 
 ## Helm of Perfect Potential
-Wondrous Item (Attuned)
 Source: Bigby Presents - Glory of the Giants
 
 *Wondrous Item, Artifact (Requires Attunement)*
@@ -589,7 +570,6 @@ This copper-hued helm contains a shard of the Elemental Chaos embedded in its fo
 **Spellcasting.** The helm has 6 charges and regains 1d6 charges each dawn. As an action while wearing the helm, you can expend 1 or more of its charges to cast one of the following spells (save DC 20): [Elemental Weapon](http://dnd5e.wikidot.com/spell:elemental-weapon) (1 charge), [Call Lightning](http://dnd5e.wikidot.com/spell:call-lightning) (2 charges), [Wall of Fire](http://dnd5e.wikidot.com/spell:wall-of-fire) (3 charges), [Conjure Elemental](http://dnd5e.wikidot.com/spell:conjure-elemental) (4 charges), [Tsunami](http://dnd5e.wikidot.com/spell:tsunami) (5 charges).
 
 ## Iggwilv's Cauldron
-Wondrous Item (Attuned)
 Source: The Wild Beyond The Witchlight
 
 *Wondrous Item, Artifact (Requires Attunement by a Spellcaster)*
@@ -626,7 +606,6 @@ The destruction of *Iggwilv's Cauldron* causes all hags in the multiverse to los
 **Reconstructing the Cauldron.** If all eight pieces of the shattered cauldron are within 5 feet of one another, a [Wish](http://dnd5e.wikidot.com/spell:wish) spell can reassemble them, restoring the cauldron and all its properties. The cauldron's reconstruction also restores the Shared Spellcasting trait of hag covens throughout the multiverse.
 
 ## Khrusor, Spear of Heliod
-Weapon (Attuned)
 Source: Mythic Odysseys of Theros
 
 *Weapon (spear), artifact (requires attunement)*
@@ -655,7 +634,6 @@ See "Artifacts" in chapter 7 of the *Dungeon Master's Guide* for details on rand
 ***Destroying the Spear.*** If taken to Erebos's palace in Tizerus, and used to sacrifice a champion of Heliod to Erebos, *Khrusor* is either destroyed or fundamentally twisted to Erebos's service.
 
 ## Lash of Shadows
-Weapon (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Weapon (whip), artifact (requires attunement)*
@@ -689,7 +667,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 * The weapon gains a new poison option called **Cockatrice Tears**. A creature that fails the saving throw against this poison begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
 ## Luba's Tarokka of Souls
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, artifact (requires attunement)*
@@ -744,7 +721,6 @@ The released soul appears at a random location within 10d10 miles of you and ter
 ***Destroying the Deck.*** *Luba's Tarokka of Souls* can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a **lich**, that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
 
 ## Mace of the Black Crown
-Weapon (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Weapon (mace), artifact (requires attunement)*
@@ -777,7 +753,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 * You have resistance to fire damage while you hold this weapon.
 
 ## Mastix, Whip of Erebos
-Weapon (Attuned)
 Source: Mythic Odysseys of Theros
 
 *Weapon (whip), artifact (requires attunement)*
@@ -803,7 +778,6 @@ See "Artifacts" in chapter 7 of the *Dungeon Master's Guide* for details on rand
 ***Destroying the Whip.*** To destroy the whip, it must be taken to the heights of Mount Hiastos in Nyx, unraveled by a Returned, and left to bask in continual daylight for one month.
 
 ## Mighty Servant of Leuk-o
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, artifact (requires attunement)*
@@ -870,7 +844,6 @@ This does not destroy the servant permanently. Rather, 2d6 days later, its parts
 |***Crushing Leap.*** If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (4d12) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone.|       |       |      |       |       |
 
 ## Orb of Dragonkind
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, artifact (requires attunement)*
@@ -902,7 +875,6 @@ You can also use an action to cast the [Detect Magic](http://dnd5e.wikidot.com/s
 ***Destroying an Orb.*** An *Orb of Dragonkind* appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A disintegrate spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
 
 ## Orrery Of The Wanderer
-Wondrous Item (Attuned)
 Source: Acquisitions Incorporated
 
 *Wondrous item, artifact (requires attunement)*
@@ -941,7 +913,6 @@ While a component is not installed in the orrery, its magic might function spora
 ***Master of Travel.*** While all six components of the Orrery of the Wanderer are installed, the artifact has 7 charges. While touching the orrery, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 17): [Contact Other Plane](http://dnd5e.wikidot.com/spell:contact-other-plane) (3 charges), [Demiplane](http://dnd5e.wikidot.com/spell:demiplane) (6 charges), [Gate](http://dnd5e.wikidot.com/spell:gate) (7 charges), [Plane Shift](http://dnd5e.wikidot.com/spell:plane-shift) (5 charges), or [Teleportation Circle](http://dnd5e.wikidot.com/spell:teleportation-circle) (3 charges). The orrery regains 1d4 + 4 expended charges daily at dawn.
 
 ## Ring of Winter
-Ring (Attuned)
 Source: Tomb of Annihilation
 
 *Ring, artifact (requires attunement)*
@@ -969,7 +940,6 @@ The *Ring of Winter* is sentient and tries to take control of any creature that 
 ***Destroying the Ring.*** The ring is nigh indestructible, resisting even the most intense magical heat. If it is placed on the finger of the powerful arch fey known as the Summer Queen, the ring melts away and is destroyed forever.
 
 ## Rod of Seven Parts
-Rod (Attuned)
 Source: Vecna - Eve of Ruin
 
 *Rod, Artifact (Requires Attunement)*
@@ -1006,7 +976,6 @@ Additionally, while holding one piece of the broken rod, you can use an action t
 A piece of the rod may be temporarily destroyed in this way, but each piece re-forms one year after it has succumbed. A re-formed piece teleports to a random place in the multiverse
 
 ## Ruin's Wake
-Weapon (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Weapon (spear), artifact (requires attunement)*
@@ -1037,7 +1006,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 * When you reduce a creature to 0 hit points with an attack from the spear, you can regain hit points equal to the damage you dealt with the attack. This property can't be used again until the next dawn.
 
 ## Ruinstone
-Wondrous Item
 Source: Divine Contention
 
 *Wondrous item, artifact*
@@ -1051,7 +1019,6 @@ Each use of the artifact has a terrible side effect: someone known to the wielde
 If a creature bound its soul to the ruinstone in the “Thalivar’s Beacon” quest, the artifact explodes when used and the creature who is bound to it disintegrates, disappearing from reality and can only be brought back with a wish spell, or similar magic.
 
 ## Silken Spite
-Weapon (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Weapon (rapier), artifact (requires attunement)*
@@ -1086,7 +1053,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 * While holding the weapon in dim light or darkness, you can use a bonus action to teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. This property can't be used again until the next dawn.
 
 ## Staff of the Forgotten One
-Staff (Attuned)
 Source: Tomb of Annihilation
 
 *Staff, artifact (requires attunement by a sorcerer, warlock, or wizard)*
@@ -1109,7 +1075,6 @@ This crooked staff is carved from bone and topped with the skull of a forgotten 
 Casting the staff into a [Sphere of Annihilation](http://dnd5e.wikidot.com/wondrous-items:sphere-of-annihilation) destroys both the staff and the Life force trapped within it. The staff doesn't explode if destroyed in this manner, but its destruction causes the sphere to be destroyed as well.
 
 ## Stone of Golorr
-Wondrous Item (Attuned)
 Source: Waterdeep - Dragon Heist
 
 *Wondrous item, artifact (requires attunement)*
@@ -1138,7 +1103,6 @@ The *Stone of Golorr* hungers for information and prefers not to remain in the c
 ***Destroying the Stone.*** While in stone form the aboleth isn't a creature and isn't subject to effects that target creatures. The *Stone of Golorr* is immune to all damage. Casting an [Antipathy/Sympathy](http://dnd5e.wikidot.com/spell:antipathy-sympathy) spell on the stone destroys it if the antipathy effect is selected and the spell is directed to repel aberrations. When the spell is cast in this way, the stone transforms into mucus and is destroyed. and Golorr the aboleth appears in an unoccupied space within 30 feet of the stone's remains. The aboleth is incensed by the stone's destruction, and it attacks all other creatures it can see.
 
 ## Sword of Kas
-Weapon (Attuned)
 Source: Dungeon Master's Guide
 
 *Weapon (longsword), artifact (requires attunement)*
@@ -1173,7 +1137,6 @@ The *Sword of Kas* also seeks to destroy anyone corrupted by the Eye and Hand of
 **Destroying the Sword.** A creature attuned to both the [Eye of Vecna](http://dnd5e.wikidot.com/wondrous-items:eye-and-hand-of-vecna) and the [Hand of Vecna](http://dnd5e.wikidot.com/wondrous-items:eye-and-hand-of-vecna) can use the Wish property of those combined artifacts to unmake the *Sword of Kas*. The creature must cast the [Wish](http://dnd5e.wikidot.com/spell:wish) spell and make a Charisma check contested by the Charisma check of the sword. The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the [Wish](http://dnd5e.wikidot.com/spell:wish) spell is wasted. If the sword loses the contest, it is destroyed.
 
 ## Sword of Zariel
-Weapon (Attuned)
 Source: Baldur's Gate - Descent into Avernus
 
 *Weapon (longsword), artifact (requires attunement by a creature the sword deems worthy)*
@@ -1250,7 +1213,6 @@ The sword communicates by transmitting emotion to the creature carrying or wield
 If Zariel is killed for good (that is, if she dies in the Nine Hells), the sword becomes no harder to destroy than a normal longsword.
 
 ## Teeth of Dahlver-Nar
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, artifact (requires attunement)*
@@ -1296,7 +1258,6 @@ Each tooth can only be used once. Track which teeth have been used. If a tooth's
 |         20         |             Dahlver-Nar's Tooth (dusty human molar)              |                                    1 **priest**                                     |                                                                                             As an action you can call on a divine force to come to your aid. Describe the assistance you seek, and the DM decides the nature of the intervention; the effect of any cleric spell would be appropriate. Once this property is used, it can't be used again for 7 days.                                                                                              |
 
 ## The Bloody End
-Weapon (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Weapon (morningstar), artifact (requires attunement)*
@@ -1331,7 +1292,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 * When you use your reaction to deal psychic damage to a creature that hits you with a melee attack, the amount of psychic damage increases to 2d6.
 
 ## The Infernal Machine Of Lum The Mad
-Wondrous Item (Attuned)
 Source: Infernal Machine Rebuild
 
 *Wondrous item, artifact (requires attunement)*
@@ -1470,7 +1430,6 @@ Once set, these properties last until the end of the attuned user’s next long 
 |            00             |                                                                                All creatures of a particular type other than humanoid (as chosen by the DM) are incapable of acting hostile toward you as long as you do not attack, threaten, or provoke them.                                                                                |           Whenever you meet a creature of a particular type other than humanoid (as chosen by the DM), there is a 1 percent cumulative chance that the **tarrasque** is magically summoned within 1 mile of you. The tarrasque has no knowledge of your existence. It runs amok for 1d6 × 10 minutes, then magically returns to its previous location.           |
 
 ## Wand of Orcus
-Wand (Attuned)
 Source: Dungeon Master's Guide
 
 *Wand, artifact (requires attunement)*
@@ -1515,7 +1474,6 @@ In order to further its master's goals, the wand feigns devotion to its current 
 Bathing the wand in positive energy causes it to crack and explode, but unless the above conditions are met, the wand instantly reforms on Orcus's layer of the Abyss.
 
 ## Will of the Talon
-Weapon (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Weapon (war pick), artifact (requires attunement)*
@@ -1559,7 +1517,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 * The saving throw DC for the war pick's Frightful Presence property increases to 17.
 
 ## Wyrmskull Throne
-Wondrous Item
 Source: Storm King's Thunder
 
 *Wondrous item, artifact*
@@ -1581,4 +1538,3 @@ Any creature seated on the throne can hear faint whispers in Draconic — the wh
 * As an action, the creature can expend 3 charges to create a spectral image of an ancient blue dragon that surrounds both it and the throne. The spectral dragon lasts for 1 minute. At the end of each of the creature's turns, the spectral dragon makes one bite attack and two claw attacks against targets of the creature's choice. These attacks have the same attack bonus, reach, and damage as an ancient blue dragon's bite and claw attacks.
 
 ***Destroying the Throne.*** The *Wyrmskull Throne* can be destroyed by breaking at least five Ruling Scepters of Shanatar simultaneously on it. This fact has never been recorded or sung of among the dwarves or any bards or storytellers, and it can't be discovered with an ability check. Characters who want to destroy the throne must go on a quest to learn the method for doing so. The throne's destruction triggers an explosion, as shards of obsidian fly out in all directions. Each creature and object within a 30-foot-radius sphere centered on the throne must succeed on a DC 21 Dexterity saving throw, taking 70 (20d6) slashing damage on a failed save, or half as much damage on a successful one.
-

@@ -1,6 +1,5 @@
 # Uncommon
 ## Adamantine Armor
-Armor
 Source: Dungeon Master's Guide
 
 *Armor (medium or heavy, but not hide), uncommon*
@@ -8,7 +7,6 @@ Source: Dungeon Master's Guide
 This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.
 
 ## Alchemy Jug
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -33,7 +31,6 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 |    Wine    | 1 gallon |
 
 ## Alchemy Jug (Blue)
-Wondrous Item
 Source: Candlekeep Mysteries
 
 *Wondrous item, uncommon*
@@ -59,7 +56,6 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 |     Wine      | 1 gallon |
 
 ## Alchemy Jug (Orange)
-Wondrous Item
 Source: Candlekeep Mysteries
 
 *Wondrous item, uncommon*
@@ -85,7 +81,6 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 |    Wine    | 1 gallon |
 
 ## All-Purpose Tool
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, uncommon (+1), rare (+2), very rare (+3) (requires attunement by an artificer)*
@@ -95,7 +90,6 @@ This simple screwdriver can transform into a variety of tools; as an action, you
 As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificer cantrip for you. Once this property is used, it can't be used again until the next dawn.
 
 ## Ammunition, +1, +2, or +3
-Weapon
 Source: Dungeon Master's Guide
 
 *Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)*
@@ -103,7 +97,6 @@ Source: Dungeon Master's Guide
 You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
 
 ## Amulet of Proof Against Detection and Location
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -111,7 +104,6 @@ Source: Dungeon Master's Guide
 While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
 
 ## Amulet of the Devout
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, uncommon (+1), rare (+2), very rare (+3) (requires attunement by a cleric or paladin)*
@@ -121,7 +113,6 @@ This amulet bears the symbol of a deity inlaid with precious stones or metals. W
 While you wear this amulet, you can use your Channel Divinity feature without expending one of the feature's uses. Once this property is used, it can't be used again until the next dawn.
 
 ## Amulet of the Drunkard
-Wondrous Item
 Source: Explorer's Guide to Wildemount
 
 *Wondrous item, uncommon*
@@ -129,7 +120,6 @@ Source: Explorer's Guide to Wildemount
 This amulet smells of old, ale-stained wood. While wearing it, you can regain 4d4 + 4 hit points when you drink a pint of beer, ale, mead, or wine. Once the amulet has restored hit points, it can't do so again until the next dawn.
 
 ## Arcane Grimoire
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, uncommon (+1), rare (+2), very rare (+3) (requires attunement by a wizard)*
@@ -139,7 +129,6 @@ While you are holding this leather-bound book, you can use it as a spellcasting 
 You can use this book as a spellbook. In addition, when you use your Arcane Recovery feature, you can increase the number of spell slot levels you regain by 1.
 
 ## Armor Of Fungal Spores
-Armor
 Source: The Book of Many Things
 
 *Armor (medium), uncommon*
@@ -147,7 +136,6 @@ Source: The Book of Many Things
 While wearing this armor, you can take a bonus action to make the armor emit poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the poisoned condition until the end of your next turn. Once this property is used, it can’t be used again until the next dawn.
 
 ## Armor Of The Fallen
-Armor (Attuned)
 Source: The Book of Many Things
 
 *Armor (medium or heavy), uncommon (requires attunement)*
@@ -157,7 +145,6 @@ While wearing this armor, you can use it to cast either [Speak With Dead](http:/
 Your soul keeps this armor together. If you die while you are attuned to the armor, the armor is destroyed.
 
 ## Armor Of Weightlessness
-Armor (Attuned)
 Source: The Book of Many Things
 
 *Armor (light, medium, or heavy), uncommon (requires attunement)*
@@ -167,7 +154,6 @@ This armor has 5 charges. While you wear it, you can use a bonus action to expen
 This armor regains 1d4 + 1 expended charges daily at dawn.
 
 ## Bag Of Bounty
-Wondrous Item
 Source: Wayfarer's Guide to Eberron
 
 *Wondrous item, uncommon*
@@ -185,7 +171,6 @@ This is a sturdy leather sack with tiny Siberys shards embedded into the lining.
 A bag of bounty can be used up to three times over the course of a day. After that, the bag can’t be used again until the next dawn.
 
 ## Bag of Holding
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -197,7 +182,6 @@ If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and it
 Placing a bag of holding inside an extradimensional space created by a *[Heward's Handy Haversack](http://dnd5e.wikidot.com/wondrous-items:hewards-handy-haversack), [Portable Hole](http://dnd5e.wikidot.com/wondrous-items:portable-hole)*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ## Bag of Tricks
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -247,7 +231,6 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 |        8        |   Tiger    |
 
 ## Balance of Harmony
-Wondrous Item
 Source: Tales from the Yawning Portal
 
 *Wondrous item, uncommon*
@@ -255,7 +238,6 @@ Source: Tales from the Yawning Portal
 This scale bears celestial symbols on one pan and fiendish symbols on the other. You can use the scale to cast [Detect Evil and Good](http://dnd5e.wikidot.com/spell:detect-evil-and-good) as a ritual. Doing so requires you to place the scale on a solid surface, then sprinkle the pans with holy water or place a transparent gem worth 100 gp in each pan. The scale remains motionless if it detects nothing, tips to one side or the other for good (consecrated) or evil (desecrated), and fluctuates slightly if it detects a creature appropriate to the spell but neither good nor evil. By touching the scales after casting the ritual, you instantly learn any information the spell can normally convey, and then the effect ends.
 
 ## Balloon Pack
-Wondrous Item
 Source: Princes of the Apocalypse
 
 *Wondrous item, uncommon*
@@ -267,7 +249,6 @@ When either spell ends, the balloon slowly deflates as the elemental spirit esca
 After the spirit departs, the backpack’s property is unusable unless the backpack is recharged for 1 hour in an elemental air node, which binds another spirit to the backpack.
 
 ## Barrier Tattoo
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item (tattoo), rarity varies (requires attunement)*
@@ -285,7 +266,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 |Very Rare|                     18                     |
 
 ## Blasted Goggles
-Wondrous Item (Attuned)
 Source: The Book of Many Things
 
 *Wondrous Item, uncommon (requires attunement)*
@@ -297,7 +277,6 @@ These tinker’s goggles have 3 charges. As an action, you can expend 1 charge t
 Whenever you use the goggles’ fiery beam and the target rolls a 20 on the d20 for the saving throw, the goggles expose you to a flash of violent bright light. As a result, you have the blinded condition for 24 hours.
 
 ## Blood of the Lycanthrope Antidote
-Potion
 Source: Infernal Machine Rebuild
 
 *Potion, uncommon*
@@ -305,7 +284,6 @@ Source: Infernal Machine Rebuild
 This clear potion has dark red flecks within, resembling clotted blood. When you drink this potion, it removes the curse of lycanthropy from you if that curse was imposed by a lycanthrope’s bite or similar effect.
 
 ## Blood Spear
-Weapon (Attuned)
 Source: Curse of Strahd
 
 *Weapon (spear), uncommon (requires attunement)*
@@ -315,7 +293,6 @@ Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centur
 When you hit with a melee attack using this magic spear and reduce the target to 0 hit points, you gain 2d6 temporary hit points.
 
 ## Bloodrage Greataxe
-Weapon
 Source: The Book of Many Things
 
 *Weapon (greataxe), uncommon*
@@ -323,7 +300,6 @@ Source: The Book of Many Things
 You gain a +2 bonus to attack and damage rolls made with this magic greataxe while you have half your hit points or fewer.
 
 ## Bloodwell Vial
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, uncommon (+1), rare (+2), very rare (+3) (requires attunement by a sorcerer)*
@@ -333,7 +309,6 @@ To attune to this vial, you must place a few drops of your blood into it. The vi
 In addition, when you roll any Hit Dice to recover hit points while you are carrying the vial, you can regain 5 sorcery points. This property of the vial can't be used again until the next dawn.
 
 ## Boomerang Shield
-Armor (Attuned)
 Source: The Book of Many Things
 
 *Armor (shield), uncommon (requires attunement)*
@@ -343,7 +318,6 @@ You can make a ranged weapon attack with this magic shield. It has a normal rang
 A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
 ## Boots of Elvenkind
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -351,7 +325,6 @@ Source: Dungeon Master's Guide
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.
 
 ## Boots of Striding and Springing
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -359,7 +332,6 @@ Source: Dungeon Master's Guide
 While you wear these boots, your walking speed becomes 30 feet, unless your walking speed is higher, and your speed isn't reduced if you are encumbered or wearing heavy armor. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.
 
 ## Boots of the Winterlands
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -373,7 +345,6 @@ These furred boots are snug and feel quite warm. While you wear them, you gain t
 * You can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as -100 degrees Fahrenheit.
 
 ## Bottled Breath
-Potion
 Source: Princes of the Apocalypse
 
 *Potion, uncommon*
@@ -383,7 +354,6 @@ This bottle contains a breath of elemental air. When you inhale it, you either e
 If you exhale the breath, you gain the effect of the [Gust of Wind](http://dnd5e.wikidot.com/spell:gust-of-wind) spell. If you hold the breath, you don’t need to breathe for 1 hour, though you can end this benefit early (for example, to speak). Ending it early doesn’t give you the benefit of exhaling the breath.
 
 ## Bracers of Archery
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -391,7 +361,6 @@ Source: Dungeon Master's Guide
 While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.
 
 ## Brooch of Living Essence
-Wondrous Item (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Wondrous item, uncommon (requires attunement)*
@@ -399,7 +368,6 @@ Source: Explorer's Guide to Wildemount
 While wearing this nondescript brooch, spells and anything else that would detect or reveal your creature type treat you as humanoid, and those that would reveal your alignment treat it as neutral.
 
 ## Brooch of Shielding
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -407,7 +375,6 @@ Source: Dungeon Master's Guide
 While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the [Magic Missile](http://dnd5e.wikidot.com/spell:magic-missile) spell.
 
 ## Broom of Flying
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -417,7 +384,6 @@ This wooden broom, which weighs 3 pounds, functions like a mundane broom until y
 You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.
 
 ## Cap of Water Breathing
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -425,7 +391,6 @@ Source: Dungeon Master's Guide
 While wearing this cap underwater, you can speak its command word as an action to create a bubble of air around your head. It allows you to breathe normally underwater. This bubble stays with you until you speak the command word again, the cap is removed, or you are no longer underwater.
 
 ## Card Sharp's Deck
-Wondrous Item
 Source: The Book of Many Things
 
 *Wondrous Item, uncommon*
@@ -437,7 +402,6 @@ The cards of this deck shimmer around the edges. While holding this deck, you ca
 **Spray of Cards.** As an action, you can shuffle the deck and cast the [Spray of Cards](http://dnd5e.wikidot.com/spell:spray-of-cards) spell at 3rd level from the deck (spell save DC 15). Once the deck has cast the spell, it can’t cast the spell again until the next dawn.
 
 ## Circlet of Blasting
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -454,7 +418,6 @@ The *Circlet of Human Perfection* transforms its attuned wearer into an attracti
 Removing the circlet ends the effect.
 
 ## Cloak of Elvenkind
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -462,7 +425,6 @@ Source: Dungeon Master's Guide
 While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
 
 ## Cloak of Protection
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -470,7 +432,6 @@ Source: Dungeon Master's Guide
 You gain a +1 bonus to AC and saving throws while you wear this cloak.
 
 ## Cloak of the Manta Ray
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -478,7 +439,6 @@ Source: Dungeon Master's Guide
 While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.
 
 ## Coiling Grasp Tattoo
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item (tattoo), uncommon (requires attunement)*
@@ -492,7 +452,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 **Grasping Tendrils.** While the tattoo is on your skin, you can, as an action, cause the tattoo to extrude into inky tendrils, which reach for a creature you can see within 15 feet of you. The creature must succeed on a DC 14 Strength saving throw or take 3d6 force damage and be grappled by you. As an action, the creature can escape the grapple by succeeding on a DC 14 Strength (Athletics) or Dexterity (Acrobatics) check. The grapple also ends if you halt it (no action required), if the creature is ever more than 15 feet away from you, or if you use this tattoo on a different creature.
 
 ## Cracked Driftglobe
-Wondrous Item
 Source: Candlekeep Mysteries
 
 *Wondrous item, uncommon*
@@ -500,7 +459,6 @@ Source: Candlekeep Mysteries
 This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can speak its command word cause it to emanate the [Light](http://dnd5e.wikidot.com/spell:light) spell.
 
 ## Cursed Luckstone
-Wondrous Item (Attuned)
 Source: Ghosts of Saltmarsh
 
 *Wondrous item, uncommon (requires attunement)*
@@ -510,7 +468,6 @@ This flat, gray-and-black river stone is inscribed with an unknown arcane symbol
 ***Curse.*** This item is cursed. Attuning to it curses you until you are targeted by a remove curse spell or similar magic. As long as you remain cursed, you cannot discard the stone, which immediately teleports back into your pocket or pack. After you use the stone's magic, your next two ability checks are made with disadvantage.
 
 ## Decanter of Endless Water
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -526,7 +483,6 @@ You can use an action to remove the stopper and speak one of three command words
 * "Geyser" produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.
 
 ## Deck of Illusions
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -576,7 +532,6 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 |   Jokers (2)    |     You (the deck's owner)     |
 
 ## Deck Of Miscellany
-Wondrous Item
 Source: The Book of Many Things
 
 *Wondrous Item, uncommon*
@@ -623,7 +578,6 @@ The face of each card bears an illustration of a different item or set of items.
 |10 ♠️|                                                                       Ten arrows                                                                        |
 
 ## Deck Of Wonder
-Wondrous Item
 Source: The Book of Many Things
 
 *Wondrous Item, Uncommon*
@@ -710,7 +664,6 @@ You can use an altered deck of playing cards to simulate the deck, as shown in t
 **Vulture\*.** One nonmagical item or piece of equipment in your possession (chosen by the DM) disappears. The item remains nearby but concealed for a short time, so it can be found with a successful DC 15 Wisdom (Perception) check. If the item isn’t recovered within 1 hour, it disappears forever.
 
 ## Dragon Vessel
-Wondrous Item (Attuned)
 Source: Fizban's Treasury of Dragons
 
 *Wondrous Item, Rarity Varies (Requires Attunement)*
@@ -726,7 +679,6 @@ This vessel can be a potion bottle, drinking horn, or other container meant to h
 **Ascendant (Legendary).** In addition to the options for other states, you can fill an Ascendant vessel with Whiskey, a [Supreme Potion of Healing](http://dnd5e.wikidot.com/wondrous-items:potion-of-healing), or a [Potion of Dragon’s Majesty](http://dnd5e.wikidot.com/wondrous-items:potion-of-dragons-majesty).
 
 ## Dragonhide Belt
-Wondrous Item (Attuned)
 Source: Fizban's Treasury of Dragons
 
 *Wondrous Item, uncommon (+1), rare (+2), or very rare (+3) (Requires Attunement by a Monk)*
@@ -734,7 +686,6 @@ Source: Fizban's Treasury of Dragons
 This finely detailed belt is made of dragonhide. While wearing it, you gain a bonus to the saving throw DCs of your ki features. The bonus is determined by the belt’s rarity. In addition, you can use an action to regain ki points equal to a roll of your Martial Arts die. You can’t use this action again until the next dawn.
 
 ## Dragon's Wrath Weapon
-Weapon (Attuned)
 Source: Fizban's Treasury of Dragons
 
 *Weapon (Any), Rarity Varies (Requires Attunement)*
@@ -754,7 +705,6 @@ As an action, you can unleash a 30-foot cone of destructive energy from the weap
 The cone of destructive energy the weapon creates increases to a 60-foot cone, the save DC increases to 18, and the damage increases to 12d6.
 
 ## Dragon-Touched Focus
-Wondrous Item (Attuned)
 Source: Fizban's Treasury of Dragons
 
 *Wondrous Item, Rarity Varies (Requires Attunement by a Spellcaster)*
@@ -782,7 +732,6 @@ Metallic. [Fizban’s Platinum Shield](http://dnd5e.wikidot.com/spell:fizbans-pl
 **Ascendant (Legendary).** The Ascendant focus has the Slumbering, Stirring, and Wakened properties. In addition, when you cast a spell of 1st level or higher while holding this focus, you can treat the spell as if it were cast using a 9th-level spell slot. Once this property is used, it can’t be used again until the next dawn.
 
 ## Dried Leech
-Weapon
 Source: The Book of Many Things
 
 *Weapon (any ammunition), uncommon*
@@ -790,7 +739,6 @@ Source: The Book of Many Things
 This leech has been dried and imbued with a mote of animating magic. If you hit a creature with a ranged attack roll using this ammunition, the leech springs to life and sinks its teeth into the target, dealing 1d4 piercing damage at the start of each of the target’s turns. If the leech deals at least 10 damage or the target dies, the leech falls off. A creature, including the target, can use its action to detach the leech. Once a leech is no longer attached to its target, the leech dies and is no longer magical.
 
 ## Driftglobe
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -800,7 +748,6 @@ This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it
 You can speak another command word as an action to make the illuminated globe rise into the air and float no more than 5 feet off the ground. The globe hovers in this way until you or another creature grasps it. If you move more than 60 feet from the hovering globe, it follows you until it is within 60 feet of you. It takes the shortest route to do so. If prevented from moving, the globe sinks gently to the ground and becomes inactive, and its light winks out.
 
 ## Dust of Corrosion
-Wondrous Item
 Source: The Wild Beyond The Witchlight
 
 *Wondrous Item, Uncommon*
@@ -810,7 +757,6 @@ As an action, you can throw this dust into the air, filling a 10-foot cube that 
 Found in a small packet, this dust is made from finely ground rust monster antennae. There is enough dust in each packet for one use.
 
 ## Dust of Deliciousness
-Wondrous Item
 Source: Explorer's Guide to Wildemount
 
 *Wondrous item, uncommon*
@@ -818,7 +764,6 @@ Source: Explorer's Guide to Wildemount
 This reddish brown dust can be sprinkled over any edible substance to greatly improve the flavor. The dust also dulls the eater's senses: anyone eating food treated with this dust has disadvantage on Wisdom ability checks and Wisdom saving throws for 1 hour. There is enough dust to flavor six servings.
 
 ## Dust of Disappearance
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -826,7 +771,6 @@ Source: Dungeon Master's Guide
 Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature.
 
 ## Dust of Dryness
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -838,7 +782,6 @@ Someone can use an action to smash the pellet against a hard surface, causing th
 An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 Constitution saving throw, taking 10d6 necrotic damage on a failed save, or half as much damage on a successful one.
 
 ## Dust of Sneezing and Choking
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -848,7 +791,6 @@ Found in a small container, this powder resembles very fine sand. It appears to 
 When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe, while sneezing uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The [Lesser Restoration](http://dnd5e.wikidot.com/spell:lesser-restoration) spell can also end the effect on a creature.
 
 ## Earworm
-Wondrous Item (Attuned)
 Source: Eberron - Rising from the Last War
 
 *Wondrous item, uncommon (requires attunement)*
@@ -862,7 +804,6 @@ The *earworm* regains 1d4 expended charges daily at dawn.
 ***Symbiotic Nature.*** The *earworm* can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the earworm ends, and it exits your body.
 
 ## Eldritch Claw Tattoo
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item (tattoo), uncommon (requires attunement)*
@@ -878,7 +819,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 **Eldritch Maul.** As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee attacks with a weapon or an unarmed strike can reach a target up to 15 feet away from you, as inky tendrils launch toward the target. In addition, your melee attacks deal an extra 1d6 force damage on a hit. Once used, this bonus action can't be used again until the next dawn.
 
 ## Elemental Gem
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -893,7 +833,6 @@ This gem contains a mote of elemental energy. When you use an action to break th
 |   Emerald    | Water elemental  |
 
 ## Emerald Pen
-Wondrous Item
 Source: Fizban's Treasury of Dragons
 
 *Wondrous Item, Uncommon*
@@ -901,7 +840,6 @@ Source: Fizban's Treasury of Dragons
 This pen is tipped with an emerald nib and requires no ink to write. While holding this pen, you can cast [Illusory Script](http://dnd5e.wikidot.com/spell:illusory-script) at will, requiring no material components.
 
 ## Eversmoking Bottle
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -911,7 +849,6 @@ Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 p
 The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round.
 
 ## Eyes of Charming
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -919,7 +856,6 @@ Source: Dungeon Master's Guide
 These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 charge as an action to cast the [Charm Person](http://dnd5e.wikidot.com/spell:charm-person) spell (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The lenses regain all expended charges daily at dawn.
 
 ## Eyes of Minute Seeing
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -927,7 +863,6 @@ Source: Dungeon Master's Guide
 These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.
 
 ## Eyes of the Eagle
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -935,10 +870,9 @@ Source: Dungeon Master's Guide
 These crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
 ## Fabulist Gem
-Wondrous Item (Attuned)
 Source: The Book of Many Things
 
-*Wonderous Item, uncommon (requires attunement)*
+*Wondrous Item, uncommon (requires attunement)*
 
 This glittering red gem is commonly found embedded in a ring or brooch.
 
@@ -949,7 +883,6 @@ While wearing the gem, you gain the following benefits.
 **Illusory Fashion.** As a bonus action, you can magically change the appearance of your clothing and armor. You can change the style, color, and apparent quality of what you’re wearing, or you can make it appear as if you were wearing different garments entirely. In either case, the changes wrought by this magic fail to pass physical inspection.
 
 ## Feywild Shard
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, uncommon (requires attunement by a sorcerer)*
@@ -961,7 +894,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 If you don't have the Wild Magic Sorcerous Origin, once this property is used to roll on the Wild Magic Surge table, it can't be used again until the next dawn.
 
 ## Figurine of Wondrous Power
-Wondrous Item
 Source: Dungeon Master's Guide, Fizban's Treasury of Dragons
 
 *Wondrous item, rarity by figurine*
@@ -1020,7 +952,6 @@ In addition, the following *Figurine of Wondrous Power* was added in *Fizban's T
 |***Peck.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2 piercing damage.|       |       |      |       |      |
 
 ## Finder's Goggles
-Wondrous Item (Attuned)
 Source: Eberron - Rising from the Last War
 
 *Wondrous item, uncommon (requires attunement by a creature with the Mark of Finding)*
@@ -1031,7 +962,6 @@ The lenses of these garish goggles are carved from Siberys dragonshards. While w
 * As an action, you can use the goggles to examine an object to identify the aura of the last creature that touched it. Make a Wisdom (Insight) check against a DC of 13 + the number of days since the last contact occurred. On a success, you learn the creature's type and can immediately use the goggles to cast [Locate Creature](http://dnd5e.wikidot.com/spell:locate-creature) to find that creature. This property can't be used again until the next dawn.
 
 ## Gauntlets of Ogre Power
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1039,7 +969,6 @@ Source: Dungeon Master's Guide
 Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them.
 
 ## Gem of Brightness
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1055,7 +984,6 @@ This prism has 50 charges. While you are holding it, you can use an action to sp
 When all of the gem's charges are expended, the gem becomes a non magical jewel worth 50 gp.
 
 ## Glamerweave
-Wondrous Item
 Source: Eberron - Rising from the Last War
 
 *Wondrous item, common or uncommon*
@@ -1067,7 +995,6 @@ Uncommon *glamerweave* can have the pattern rise from the cloth. For example, a 
 When you make a Charisma (Performance) or Charisma (Persuasion) check while wearing the uncommon version of *glamerweave*, you can roll a d4 and add the number rolled to the check. Once you use this property, it can't be used again until the next dawn.
 
 ## Gloves of Missile Snaring
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1075,7 +1002,6 @@ Source: Dungeon Master's Guide
 These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
 
 ## Gloves of Swimming and Climbing
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1083,7 +1009,6 @@ Source: Dungeon Master's Guide
 While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.
 
 ## Gloves of Thievery
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1091,7 +1016,6 @@ Source: Dungeon Master's Guide
 These gloves are invisible while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand) checks and Dexterity checks made to pick locks.
 
 ## Goggles of Night
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1099,7 +1023,6 @@ Source: Dungeon Master's Guide
 While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.
 
 ## Goggles of Object Reading
-Wondrous Item (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1109,7 +1032,6 @@ These leather-framed goggles feature purple crystal lenses. While wearing the go
 In addition, you can cast the [Identify](http://dnd5e.wikidot.com/spell:identify) spell using the googles. Once you do so, you can't do so again until the next dawn.
 
 ## Guardian Emblem
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item (holy symbol), uncommon (requires attunement by a cleric or paladin)*
@@ -1121,7 +1043,6 @@ The emblem has 3 charges. When you or a creature you can see within 30 feet of y
 The emblem regains all expended charges daily at dawn.
 
 ## Guild Keyrune
-Wondrous Item (Attuned)
 Source: Guildmaster's Guide to Ravnica
 
 *Wondrous item, rarity by keyrune (requires attunement by a member of the relevant guild)*
@@ -1155,7 +1076,6 @@ The creature exists for a duration specific to each keyrune. At the end of the d
 ***Simic Keyrune (Uncommon).*** This keyrune is assembled from coral, mother-of pearl, and chrome and adorned with the spirals and curves characteristic of Simic ornamentation. The head resembles the shell of a sea creature. On command, the keyrune turns into a **category 1 krasis** (see chapter 6 for the stat block) that has the Grabber and Stabilizing Legs adaptations. The transformation lasts for up to 5 hours.
 
 ## Guild Signet
-Ring (Attuned)
 Source: Guildmaster's Guide to Ravnica
 
 *Ring, uncommon (requires attunement)*
@@ -1179,7 +1099,6 @@ A signet has 3 charges, and it regains 1d3 expended charges daily at dawn. While
 |       Simic       |[Expeditious Retreat](http://dnd5e.wikidot.com/spell:expeditious-retreat)|
 
 ## Harkon's Bite
-Wondrous Item (Attuned)
 Source: Van Richten's Guide to Ravenloft
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1191,7 +1110,6 @@ A dire wolf tooth dangles from this simple cord necklace. While you wear it, the
 Upon donning or removing the necklace, whether you are attuned to it or not, you are afflicted with werewolf lycanthropy as detailed in the *Monster Manual*. The curse lasts until the dawn after the next full moon. If you are still wearing the necklace at this time, you are afflicted with lycanthropy again.
 
 ## Hat of Disguise
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1199,7 +1117,6 @@ Source: Dungeon Master's Guide
 While wearing this hat, you can use an action to cast the [Disguise Self](http://dnd5e.wikidot.com/spell:disguise-self) spell from it at will. The spell ends if the hat is removed.
 
 ## Headband of Intellect
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1207,7 +1124,6 @@ Source: Dungeon Master's Guide
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is 19 or higher without it.
 
 ## Hellfire Weapon
-Weapon
 Source: Baldur's Gate - Descent into Avernus
 
 *Weapon (any), uncommon*
@@ -1217,7 +1133,6 @@ This weapon is fashioned from infernal iron and traced with veins of hellfire th
 Any humanoid killed by an attack made with this weapon has its soul funneled into the River Styx, where it's reborn instantly as a lemure devil (described in the *Monster Manual*).
 
 ## Helm of Comprehending Languages
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1225,7 +1140,6 @@ Source: Dungeon Master's Guide
 While wearing this helm, you can use an action to cast the [Comprehend Languages](http://dnd5e.wikidot.com/spell:comprehend-languages) spell from it at will.
 
 ## Helm of Telepathy
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1235,7 +1149,6 @@ While wearing this helm, you can use an action to cast the [Detect Thoughts](htt
 While focusing on a creature with [Detect Thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts), you can use an action to cast the [Suggestion](http://dnd5e.wikidot.com/spell:suggestion) spell (save DC 13) from the helm on that creature. Once used, the [Suggestion](http://dnd5e.wikidot.com/spell:suggestion) property can't be used again until the next dawn.
 
 ## Helm of Underwater Action
-Wondrous Item (Attuned)
 Source: Ghosts of Saltmarsh
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1243,7 +1156,6 @@ Source: Ghosts of Saltmarsh
 While wearing this brass helmet, you can breathe underwater, you gain dark vision with a range of 60 feet, and you gain a swimming speed of 30 feet.
 
 ## House Of Cards
-Wondrous Item
 Source: The Book of Many Things
 
 *Wondrous Item, uncommon*
@@ -1253,7 +1165,6 @@ This deck of cards is decorated with geometric shapes that have a protective mot
 The shelter has AC 15, 50 hit points, and immunity to poison and psychic damage. The shelter lasts for 24 hours, until you dismiss it as an action, or until it is reduced to 0 hit points. When the shelter’s duration ends, it transforms back into a deck of cards and appears in your hand. Once the deck has transformed into a shelter, it can’t be used again until the next dawn.
 
 ## Immovable Rod
-Rod
 Source: Dungeon Master's Guide
 
 *Rod, uncommon*
@@ -1261,7 +1172,6 @@ Source: Dungeon Master's Guide
 This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success.
 
 ## Infernal Puzzle Box
-Wondrous Item
 Source: Baldur's Gate - Descent into Avernus
 
 *Wondrous item, uncommon*
@@ -1273,7 +1183,6 @@ When an object small enough to fit inside an *infernal puzzle box* is placed in 
 A creature that spends 1 hour holding an *infernal puzzle box* while trying to open it can make a DC 30 Intelligence (Investigation) check. If the check succeeds, the creature figures out the trick or sequence of steps needed to open the box. If the check fails by 5 or more, the creature must make a DC 18 Wisdom saving throw, taking 42 (12d6) psychic damage on a failed save, or half as much damage on a successful one.
 
 ## Inquisitive's Goggles
-Wondrous Item (Attuned)
 Source: Wayfarer's Guide to Eberron
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1284,7 +1193,6 @@ The lenses of these goggles are carved from Siberys dragonshards. While garish i
 * When you examine an object, you can make a Wisdom (Perception) check to identify the aura of the last living creature to touch the object. The DC is 13 + the number of days since the last contact occurred. If the check is successful, you learn the species of the creature and you can immediately use your Imprint Prey ability to target this creature.
 
 ## Insignia of Claws
-Wondrous Item
 Source: Tyranny of Dragons
 
 *Wondrous item, uncommon*
@@ -1294,7 +1202,6 @@ The jewels in this insignia of the Cult of the Dragon flare with purple light wh
 While wearing the insignia, you gain a +1 bonus to the attack rolls and the damage rolls you make with unarmed strikes and natural weapons. Such attacks are considered to be magical.
 
 ## Instrument of the Bards
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, rarity varies (requires attunement by a bard)*
@@ -1317,7 +1224,6 @@ You can play the instrument while casting a spell that causes any of its targets
 |    Ollamh harp     |Legendary|                                                               [Confusion](http://dnd5e.wikidot.com/spell:confusion), [Control Weather](http://dnd5e.wikidot.com/spell:control-weather), [Fire Storm](http://dnd5e.wikidot.com/spell:fire-storm)                                                                |
 
 ## Javelin of Lightning
-Weapon
 Source: Dungeon Master's Guide
 
 *Weapon (javelin), uncommon*
@@ -1327,7 +1233,6 @@ This javelin is a magic weapon. When you hurl it and speak its command word, it 
 The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.
 
 ## Keoghtom's Ointment
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1337,7 +1242,6 @@ This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture 
 As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.
 
 ## Lantern of Revealing
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1345,7 +1249,6 @@ Source: Dungeon Master's Guide
 While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius.
 
 ## Living Gloves
-Wondrous Item (Attuned)
 Source: Eberron - Rising from the Last War
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1364,7 +1267,6 @@ When you make an ability check using the chosen proficiency, you add double your
 ***Symbiotic Nature.*** The gloves can't be removed from you while you're attuned to them, and you can't voluntarily end your attunement to them. If you're targeted by a spell that ends a curse, your attunement to the gloves ends, and they can be removed.
 
 ## Lorehold Primer
-Wondrous Item (Attuned)
 Source: Strixhaven: A Curriculum of Chaos
 
 *Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)*
@@ -1374,7 +1276,6 @@ The *Lorehold Primer* is a magic textbook created at Strixhaven's Lorehold Colle
 In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the [Cleric](http://dnd5e.wikidot.com/spells:cleric) or [Wizard](http://dnd5e.wikidot.com/spells:wizard) spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.
 
 ## Mariner's Armor
-Armor
 Source: Dungeon Master's Guide
 
 *Armor (light, medium, or heavy), uncommon*
@@ -1382,7 +1283,6 @@ Source: Dungeon Master's Guide
 While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs.
 
 ## Mask of the Beast
-Wondrous Item
 Source: Tomb of Annihilation
 
 *Wondrous item, uncommon*
@@ -1390,7 +1290,6 @@ Source: Tomb of Annihilation
 This wooden mask is shaped in the likeness of a beast's visage and has 3 charges. While wearing the mask, you can expend 1 charge and use the mask to cast the [Animal Friendship](http://dnd5e.wikidot.com/spell:animal-friendship) spell as an action. The mask regains all expended charges at dawn.
 
 ## Medallion of Thoughts
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1398,7 +1297,6 @@ Source: Dungeon Master's Guide
 The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the [Detect Thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) spell (save DC 13) from it. The medallion regains 1d3 expended charges daily at dawn.
 
 ## Mind Carapace Armor
-Armor (Attuned)
 Source: Volo's Guide to Monsters
 
 *Armor (any heavy armor), uncommon (requires attunement by a specific individual)*
@@ -1406,7 +1304,6 @@ Source: Volo's Guide to Monsters
 Any nonmagical suit of heavy armor can be turned by mind flayers into *mind carapace armor*. Only one creature can attune to it: either a specific mind flayer or one of its thralls. While worn by any other creature, the *mind carapace armor* functions as normal armor of its kind. To its intended wearer, the armor grants advantage on Intelligence, Wisdom, and Charisma saving throws and makes its wearer immune to the frightened condition.
 
 ## Mind Crystal
-Wondrous Item
 Source: Phandelver and Below - The Shattered Obelisk
 
 *Wondrous Item, Rarity Varies*
@@ -1430,7 +1327,6 @@ When you cast a spell that has a casting time of 1 action while holding a mind c
 **Subtle (Common).** You cast the spell without any somatic or verbal components for this casting.
 
 ## Mithral Armor
-Armor
 Source: Dungeon Master's Guide
 
 *Armor (medium or heavy), uncommon*
@@ -1438,7 +1334,6 @@ Source: Dungeon Master's Guide
 Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 ## Mizzium Apparatus
-Wondrous Item (Attuned)
 Source: Guildmaster's Guide to Ravnica
 
 *Wondrous item, uncommon (requires attunement by a sorcerer, warlock, or wizard)*
@@ -1500,7 +1395,6 @@ If you try to cast a cantrip you don't know, the DC for the Intelligence (Arcana
 |       4        |   [Flame Strike](http://dnd5e.wikidot.com/spell:flame-strike)   |
 
 ## Moon Sickle
-Weapon (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Weapon (sickle), uncommon (+1), rare (+2), very rare (+3) (requires attunement by a druid or ranger)*
@@ -1510,7 +1404,6 @@ This silver-bladed sickle glimmers softly with moonlight. While holding this mag
 When you cast a spell that restores hit points, you can roll a d4 and add the number rolled to the amount of hit points restored, provided you are holding the sickle.
 
 ## Mummy Rot Antidote
-Potion
 Source: Infernal Machine Rebuild
 
 *Potion, uncommon*
@@ -1518,7 +1411,6 @@ Source: Infernal Machine Rebuild
 White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot.
 
 ## Nature's Mantle
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, uncommon (requires attunement by a druid or ranger)*
@@ -1528,7 +1420,6 @@ This cloak shifts color and texture to blend with the terrain surrounding you. W
 While you are in an area that is lightly obscured, you can Hide as a bonus action even if you are being directly observed.
 
 ## Necklace of Adaptation
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1536,7 +1427,6 @@ Source: Dungeon Master's Guide
 While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as [Cloudkill](http://dnd5e.wikidot.com/spell:cloudkill) and [Stinking Cloud](http://dnd5e.wikidot.com/spell:stinking-cloud) effects, inhaled poisons, and the breath weapons of some dragons).
 
 ## Night Caller
-Wondrous Item
 Source: Tales from the Yawning Portal
 
 *Wondrous item, uncommon*
@@ -1548,7 +1438,6 @@ If you blow the whistle in darkness or under the night sky, it allows you to cas
 Once every 24 hours, you can blow the whistle to reassert control over one or two creatures you animated with it
 
 ## Oil of Slipperiness
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, uncommon*
@@ -1558,7 +1447,6 @@ This sticky black unguent is thick and heavy in the container, but it flows quic
 Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the [Grease](http://dnd5e.wikidot.com/spell:grease) spell in that area for 8 hours.
 
 ## Paper Bird
-Wondrous Item
 Source: Waterdeep - Dragon Heist
 
 *Wondrous item, uncommon*
@@ -1572,7 +1460,6 @@ It travels to within 5 feet of its intended recipient by the most direct route, 
 *Paper Birds* usually come in small, flat boxes containing 1d6 + 3 sheets of the parchment.
 
 ## Pearl of Power
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement by a spellcaster)*
@@ -1580,7 +1467,6 @@ Source: Dungeon Master's Guide
 While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn.
 
 ## Periapt of Health
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1588,7 +1474,6 @@ Source: Dungeon Master's Guide
 You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed while you wear the pendant.
 
 ## Periapt of Wound Closure
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1596,7 +1481,6 @@ Source: Dungeon Master's Guide
 While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
 
 ## Philter of Love
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, uncommon*
@@ -1604,7 +1488,6 @@ Source: Dungeon Master's Guide
 The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.
 
 ## Pipes of Haunting
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1612,7 +1495,6 @@ Source: Dungeon Master's Guide
 You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren't hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours. The pipes regain 1d3 expended charges daily at dawn.
 
 ## Pipes of the Sewers
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1624,7 +1506,6 @@ The pipes have 3 charges. If you play the pipes as an action, you can use a bonu
 Whenever a swarm of rats that isn't under another creature's control comes within 30 feet of you while you are playing the pipes, you can make a Charisma check contested by the swarm's Wisdom check. If you lose the contest, the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes' music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can't hear the pipes' music, your control over that swarm ends, and the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours.
 
 ## Piwafwi
-Wondrous Item (Attuned)
 Source: Out of the Abyss
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1632,7 +1513,6 @@ Source: Out of the Abyss
 This dark spider-silk cloak is made by drow. It is a [Cloak of Elvenkind](http://dnd5e.wikidot.com/wondrous-items:cloak-of-elvenkind). It loses its magic if exposed to sunlight for 1 hour without interruption.
 
 ## Pixie Dust
-Wondrous Item
 Source: The Wild Beyond The Witchlight
 
 *Wondrous Item, Uncommon*
@@ -1642,7 +1522,6 @@ As an action, you can sprinkle this dust on yourself or another creature you can
 A small packet holds enough *pixie dust* for one use.
 
 ## Plate Of Knight's Fellowship
-Armor (Attuned)
 Source: The Book of Many Things
 
 *Armor (plate), uncommon (requires attunement)*
@@ -1656,7 +1535,6 @@ The spirit is an ally to you and your companions. In combat, the spirit shares y
 Once this bonus action is used, it can’t be used again until the next dawn.
 
 ## Portal Compass
-Wondrous Item
 Source: Planescape - Adventures in the Multiverse
 
 *Wondrous item, Uncommon*
@@ -1664,7 +1542,6 @@ Source: Planescape - Adventures in the Multiverse
 This portable arcane instrument points in the direction of the last portal it passed through while it and the portal are on the same plane of existence. If that portal no longer exists, the needle becomes static until the compass passes through a new portal.
 
 ## Potion of Advantage
-Potion
 Source: The Wild Beyond The Witchlight
 
 *Potion, Uncommon*
@@ -1674,7 +1551,6 @@ When you drink this potion, you gain advantage on one ability check, attack roll
 This potion takes the form of a sparkling, golden mist that moves and pours like water
 
 ## Potion of Animal Friendship
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, uncommon*
@@ -1682,7 +1558,6 @@ Source: Dungeon Master's Guide
 When you drink this potion, you can cast the [Animal Friendship](http://dnd5e.wikidot.com/spell:animal-friendship) spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.
 
 ## Potion of Fire Breath
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, uncommon*
@@ -1692,7 +1567,6 @@ After drinking this potion, you can use a bonus action to exhale fire at a targe
 This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.
 
 ## Potion of Giant Strength
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, rarity varies*
@@ -1710,7 +1584,6 @@ This potion's transparent liquid has floating in it a sliver of fingernail from 
 |   Storm Giant   |   29   |Legendary|
 
 ## Potion of Growth
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, uncommon*
@@ -1718,7 +1591,6 @@ Source: Dungeon Master's Guide
 When you drink this potion, you gain the "enlarge" effect of the [Enlarge/Reduce](http://dnd5e.wikidot.com/spell:enlarge-reduce) spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny beat to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
 
 ## Potion of Healing
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, rarity varies*
@@ -1734,7 +1606,6 @@ You regain hit points when you drink this potion. The number of hit points depen
 | Supreme healing  |Very rare| 10d4 + 20 |
 
 ## Potion of Poison
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, uncommon*
@@ -1744,7 +1615,6 @@ This concoction looks, smells, and tastes like a [Potion of Healing](http://dnd5
 If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0.
 
 ## Potion Of Polychromy
-Potion
 Source: Quests from the Infinite Staircase
 
 *Potion, Uncommon*
@@ -1754,7 +1624,6 @@ When you drink this potion, you and everything you are wearing or carrying take 
 The potion is separated into seven brightly colored bands of immiscible liquids and has a syrupy taste.
 
 ## Potion of Psionic Fortitude
-Potion
 Source: Phandelver and Below - The Shattered Obelisk
 
 *Potion, Uncommon*
@@ -1764,7 +1633,6 @@ When you drink this potion, you have advantage for 1 hour on saving throws you m
 This black potion swirls with shimmering flecks of pink and purple.
 
 ## Potion of Resistance
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, uncommon*
@@ -1785,7 +1653,6 @@ When you drink this potion, you gain resistance to one type of damage for 1 hour
 |10 |  Thunder  |
 
 ## Potion of Water Breathing
-Potion
 Source: Dungeon Master's Guide
 
 *Potion, uncommon*
@@ -1793,7 +1660,6 @@ Source: Dungeon Master's Guide
 You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
 
 ## Prehistoric Figurines of Wondrous Power
-Wondrous Item
 Source: Bigby Presents - Glory of the Giants
 
 *Wondrous Item, Varies*
@@ -1819,7 +1685,6 @@ Whenever you command the figurine while it’s in tyrannosaurus rex form (includ
 While you are riding the plesiosaurus, you can use it to cast [Water Breathing](http://dnd5e.wikidot.com/spell:water-breathing) at will.
 
 ## Prismari Primer
-Wondrous Item (Attuned)
 Source: Strixhaven: A Curriculum of Chaos
 
 *Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)*
@@ -1837,7 +1702,6 @@ Source - Waterdeep: Dungeon of the Mad Mage
 While worn, the helm allows its wearer to cast the *[levitate](http://dnd5e.wikidot.com/spell:levitate)* spell, requiring no components. The helm's propeller spins and whirs loudly until the spell ends. Each time the spell ends, there is a 50 percent chance that the helm loses its magic and becomes nonmagical.
 
 ## Psi Crystal
-Wondrous Item (Attuned)
 Source: Icewind Dale - Rime of the Frostmaiden
 
 *Wondrous item, uncommon (requires attunement by a creature with an Intelligence score of 3 or higher)*
@@ -1853,7 +1717,6 @@ This crystal grants you telepathy for as long as you remain attuned to it. See t
 |     16 or higher     |     120 feet     |Bright light in a 15-foot radius and dim light for an additional 15 feet|
 
 ## Pyroconverger
-Wondrous Item (Attuned)
 Source: Guildmaster's Guide to Ravnica
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1865,7 +1728,6 @@ As an action, you can cause the *pyroconverger* to project fire in a 10-foot con
 Each time you use the *pyroconverger*, roll a d10 and add the number of times you have used it since your last long rest. If the total is 11 or higher, the *pyroconverger* malfunctions: you take 4d6 fire damage, and you can't use the *pyroconverger* again until you finish a long rest.
 
 ## Quandrix Primer
-Wondrous Item (Attuned)
 Source: Strixhaven: A Curriculum of Chaos
 
 *Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)*
@@ -1875,7 +1737,6 @@ The *Quandrix Primer* is a magic textbook created at Strixhaven's Quandrix Colle
 In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the [Druid](http://dnd5e.wikidot.com/spells:druid) or [Wizard](http://dnd5e.wikidot.com/spells:wizard) spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.
 
 ## Quiver of Ehlonna
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -1885,7 +1746,6 @@ Each of the quiver's three compartments connects to an extradimensional space th
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
 ## Rhythm Maker's Drum
-Wondrous Item (Attuned)
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item, uncommon (+1), rare (+2), very rare (+3) (requires attunement by a bard)*
@@ -1895,7 +1755,6 @@ While holding this drum, you gain a bonus to spell attack rolls and to the savin
 As an action, you can play the drum to regain one use of your Bardic Inspiration feature. This property of the drum can't be used again until the next dawn.
 
 ## Ring of Jumping
-Ring (Attuned)
 Source: Dungeon Master's Guide
 
 *Ring, uncommon (requires attunement)*
@@ -1903,7 +1762,6 @@ Source: Dungeon Master's Guide
 While wearing this ring, you can cast the [Jump](http://dnd5e.wikidot.com/spell:jump) spell from it as a bonus action at will, but can target only yourself when you do so.
 
 ## Ring of Mind Shielding
-Ring (Attuned)
 Source: Dungeon Master's Guide
 
 *Ring, uncommon (requires attunement)*
@@ -1915,7 +1773,6 @@ You can use an action to cause the ring to become invisible until you use anothe
 If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication.
 
 ## Ring of Obscuring
-Ring (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Ring, uncommon (requires attunement)*
@@ -1923,7 +1780,6 @@ Source: Explorer's Guide to Wildemount
 This band of iron resembles a skull and is cold to the touch. It has 3 charges and regains 1d3 expended charges daily at dawn. As an action while wearing the ring, you can expend 1 of its charges to cast the [Fog Cloud](http://dnd5e.wikidot.com/spell:fog-cloud) spell from it, with the following changes: the cloud is centered on you when it first appears, and the spell lasts for 1 minute (no concentration required).
 
 ## Ring Of Puzzler's Wit
-Ring
 Source: The Book of Many Things
 
 *Ring, uncommon*
@@ -1933,7 +1789,6 @@ This gold ring bears a fluorite stone and is enchanted to sharpen the wearer’s
 The ring has 3 charges and regains 1d4 − 1 expended charges daily at dawn. When you make an Intelligence check, you can expend 1 charge to grant yourself advantage on the check.
 
 ## Ring of Swimming
-Ring
 Source: Dungeon Master's Guide
 
 *Ring, uncommon*
@@ -1941,7 +1796,6 @@ Source: Dungeon Master's Guide
 You have a swimming speed of 40 feet while wearing this ring.
 
 ## Ring of the Orator
-Ring (Attuned)
 Source: Phandelver and Below - The Shattered Obelisk
 
 *Ring, Uncommon (Requires Attunement)*
@@ -1949,7 +1803,6 @@ Source: Phandelver and Below - The Shattered Obelisk
 This ring has 6 charges. While you wear it, you can expend 1 of its charges to project your voice to be heard clearly by all creatures within 1 mile of yourself, regardless of intervening noise, for 1 minute. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks this projection. If you project your voice while speaking a language the listening creatures don’t understand, you can make the creatures understand what you’re saying. You must be able to see the creatures to make them understand. The ring regains 1d6 expended charges daily at dawn.
 
 ## Ring of Truth Telling
-Ring (Attuned)
 Source: Waterdeep - Dragon Heist
 
 *Ring, uncommon (requires attunement)*
@@ -1957,7 +1810,6 @@ Source: Waterdeep - Dragon Heist
 While wearing this ring, you have advantage on Wisdom (Insight) checks to determine whether someone is lying to you.
 
 ## Ring of Warmth
-Ring (Attuned)
 Source: Dungeon Master's Guide
 
 *Ring, uncommon (requires attunement)*
@@ -1965,7 +1817,6 @@ Source: Dungeon Master's Guide
 While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit.
 
 ## Ring of Water Walking
-Ring
 Source: Dungeon Master's Guide
 
 *Ring, uncommon*
@@ -1973,7 +1824,6 @@ Source: Dungeon Master's Guide
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
 
 ## Rings of Shared Suffering
-Ring (Attuned)
 Source: Wayfinder's Guide to Eberron
 
 *Ring, uncommon (requires attunement)*
@@ -1981,7 +1831,6 @@ Source: Wayfinder's Guide to Eberron
 These rings come in linked pairs. If you possess the [Mark of Sentinel](/human), you can use a bonus action to form a link to the creature attuned to the other ring; from then on, whenever that creature suffers damage, they only suffer half of that damage and you take the rest. This effect continues until you end it as a bonus action or until you or the other creature removes their ring. This effect isn't limited by range. A creature cannot be attuned to more than one ring of shared suffering.
 
 ## Robe of Serpents
-Wondrous Item (Attuned)
 Source: Storm King's Thunder
 
 *Wondrous item, uncommon (requires attunement)*
@@ -1991,7 +1840,6 @@ A *Robe of Serpents* is a stylish silk garment that is popular among wealthy nob
 As a bonus action on your turn, you can transform one of the robe's serpents into a **giant poisonous snake**. The snake instantly falls from the robe, slithers into an unoccupied space next to you, and acts on your initiative count. The snake can tell friendly creatures from hostile ones and attacks the latter. The snake disappears in a harmless puff of smoke after 1 hour, when it drops to 0 hit points, or when you dismiss it (no action required). Once detached, a snake can't return to the robe. When all of the robe's snakes have detached, the robe becomes a nonmagical garment.
 
 ## Robe of Useful Items
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -2026,7 +1874,6 @@ In addition, the robe has 4d4 other patches. The DM chooses the patches or deter
 |97-00|                                                                                           Portable ram                                                                                           |
 
 ## Rod of Retribution
-Rod (Attuned)
 Source: Explorer's Guide to Wildemount
 
 *Rod, uncommon (requires attunement)*
@@ -2036,7 +1883,6 @@ This adamantine rod is tipped with a glowing crystalline eye. The rod has 3 char
 When a creature you can see within 60 feet of you damages you while you are holding this rod, you can use your reaction to expend 1 of the rod's charges to force the creature to make a DC 13 Dexterity saving throw. The creature takes 2d10 lightning damage on a failed save, or half as much damage on a successful one.
 
 ## Rod of the Pact Keeper, +1, +2, +3
-Rod (Attuned)
 Source: Dungeon Master's Guide
 
 *Rod, uncommon (+1), rare (+2), or very rare (+3) (requires attunement by a warlock)*
@@ -2046,7 +1892,6 @@ While holding this rod, you gain a bonus to spell attack rolls and to the saving
 In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest.
 
 ## Rope of Climbing
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -2058,7 +1903,6 @@ If you tell the rope to knot, large knots appear at 1-foot intervals along the r
 The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
 
 ## Saddle of the Cavalier
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -2066,7 +1910,6 @@ Source: Dungeon Master's Guide
 While in this saddle on a mount, you can't be dismounted against your will if you're conscious, and attack rolls against the mount have disadvantage.
 
 ## Scaled Ornament
-Wondrous Item (Attuned)
 Source: Fizban's Treasury of Dragons
 
 *Wondrous Item, Rarity Varies (Requires Attunement)*
@@ -2082,7 +1925,6 @@ This ornament can be jewelry, a cloak, or another wearable accessory. It appears
 **Ascendant (Legendary).** The Ascendant ornament has the Stirring and Wakened properties. In addition, while you are wearing the ornament, you gain a flying speed equal to your walking speed and can hover. While you are flying using this speed, spectral dragon wings appear on your back.
 
 ## Seeker Dart
-Weapon
 Source: Princes of the Apocalypse
 
 *Weapon (dart), uncommon*
@@ -2094,7 +1936,6 @@ When you whisper the word “seek” and hurl this dart, it seeks out a target o
 When the dart reaches its target, the target must succeed on a DC 16 Dexterity saving throw or take 1d4 piercing damage and 3d4 lightning damage. The dart’s magic is then spent, and it becomes an ordinary dart.
 
 ## Sending Stones
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -2104,7 +1945,6 @@ Source: Dungeon Master's Guide
 Once *[sending](/spell:sending)* is cast through the stones, they can't be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
 
 ## Sensory Stone
-Wondrous Item
 Source: Planescape - Adventures in the Multiverse
 
 *Wondrous item, Uncommon.*
@@ -2115,7 +1955,6 @@ As an action, you or a willing creature you designate can touch the stone and ex
 **Siphon Sensation.** As a bonus action, you can draw on the stone's magic to end the charmed or frightened condition on yourself, destroying the stone in the process.
 
 ## Sentinel Shield
-Armor
 Source: Dungeon Master's Guide
 
 *Armor (shield), uncommon*
@@ -2123,7 +1962,6 @@ Source: Dungeon Master's Guide
 While holding this shield, you have advantage on initiative rolls and Wisdom (Perception) checks. The shield is emblazoned with the symbol of an eye.
 
 ## Serpent Scale Armor
-Armor
 Source: Candlekeep Mysteries
 
 *Armor (scale mail), uncommon*
@@ -2131,7 +1969,6 @@ Source: Candlekeep Mysteries
 This suit of magic armor is made from shimmering scales. While wearing it, you can apply your full Dexterity modifier (instead of a maximum of +2) when determining your Armor Class. In addition, this armor does not impose disadvantage on your Dexterity (Stealth) checks.
 
 ## Shatterspike
-Weapon (Attuned)
 Source: Tales from the Yawning Portal
 
 *Weapon (longsword), uncommon (requires attunement)*
@@ -2139,7 +1976,6 @@ Source: Tales from the Yawning Portal
 You have a +1 bonus to attack and damage rolls you make with this magic weapon. If it hits an object, the hit is automatically a critical hit, and it can deal bludgeoning or slashing damage to the object (your choice). Further, damage from nonmagical sources can't harm the weapon.
 
 ## Shield, +1, +2, +3
-Armor
 Source: Dungeon Master's Guide
 
 *Armor (shield), uncommon (+1), rare (+2), or very rare (+3)*
@@ -2147,7 +1983,6 @@ Source: Dungeon Master's Guide
 While holding this shield, you have a bonus to AC determined by the shield's rarity. This bonus is in addition to the shield's normal bonus to AC.
 
 ## Shield Of The Tortoise
-Armor (Attuned)
 Source: The Book of Many Things
 
 *Armor (shield), uncommon (requires attunement)*
@@ -2157,7 +1992,6 @@ While you are wielding this shield, you gain a +1 bonus to AC. This bonus is in 
 **Curse.** This item is cursed. Attuning to it extends the curse to you until you are targeted by a [Remove Curse](http://dnd5e.wikidot.com/spell:remove-curse) spell or similar magic. You cannot discard the shield, and remain attuned to it, as long as you are cursed. As long as you are cursed, you are sluggish. Your speed is halved. When you roll initiative, treat the roll on your d20 as a 1. You can’t change your initiative by any means.
 
 ## Silverquill Primer
-Wondrous Item (Attuned)
 Source: Strixhaven: A Curriculum of Chaos
 
 *Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)*
@@ -2167,7 +2001,6 @@ The *Silverquill Primer* is a magic textbook created at Strixhaven's Silverquill
 In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the [Bard](http://dnd5e.wikidot.com/spells:bard) or [Cleric](http://dnd5e.wikidot.com/spells:cleric) spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.
 
 ## Skyblinder Staff
-Staff (Attuned)
 Source: Guildmaster's Guide to Ravnica
 
 *Staff, uncommon (requires attunement)*
@@ -2177,7 +2010,6 @@ You gain a +1 bonus to attack and damage rolls made with this magic quarterstaff
 If a flying creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to hold the staff aloft and cause it to flare with light. The attacker has disadvantage on the attack roll, and it must succeed on a DC 15 Constitution saving throw or be blinded until the start of its next turn.
 
 ## Sling Of Giant Felling
-Weapon
 Source: The Book of Many Things
 
 *Weapon (sling), uncommon*
@@ -2185,7 +2017,6 @@ Source: The Book of Many Things
 When you hit a Giant creature with a ranged attack roll using this magic sling, the creature must succeed on a DC 18 Constitution saving throw or have the prone condition.
 
 ## Slippers of Spider Climbing
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -2193,7 +2024,6 @@ Source: Dungeon Master's Guide
 While you wear these light shoes, you can move up, down , and across vertical surfaces and upside down along ceilings, while leaving your hands free. You have a climbing speed equal to your walking speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
 
 ## Smokepowder
-Wondrous Item
 Source: Waterdeep - Dragon Heist
 
 *Wondrous item, uncommon*
@@ -2205,7 +2035,6 @@ If *Smokepowder* is set on fire, dropped, or otherwise handled roughly, it explo
 Casting [Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic) on *Smokepowder* renders it permanently inert.
 
 ## Soul Coin
-Wondrous Item
 Source: Baldur's Gate - Descent into Avernus
 
 *Wondrous item, uncommon*
@@ -2232,7 +2061,6 @@ Freeing a soul from a *soul coin* is considered a good act, even if the soul bel
 *Soul coins* are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes.
 
 ## Spell Gem
-Wondrous Item (Attuned)
 Source: Out of the Abyss
 
 *Wondrous item, rarity varies (attunement optional)*
@@ -2264,7 +2092,6 @@ Deep gnomes created these magic gemstones and keep the creation process a secret
 |      9th       |  Diamond   |Legendary|  19   |    \+11    |
 
 ## Spell Scroll
-Scroll
 Source: Dungeon Master's Guide
 
 *Scroll, rarity varies*
@@ -2294,7 +2121,6 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 A wizard spell on a *spell scroll* can be copied just as spells in spellbooks can be copied. When a spell is copied from a *spell scroll*, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *spell scroll* is destroyed.
 
 ## Spellwrought Tattoo
-Wondrous Item
 Source: Tasha's Cauldron of Everything
 
 *Wondrous item (tattoo), rarity varies*
@@ -2314,7 +2140,6 @@ The level of the spell in the tattoo determines the spell's saving throw DC, att
 |        5th        |  Rare  |             \+5             |  17   |    \+9     |
 
 ## Spies' Murmur
-Wondrous Item (Attuned)
 Source: Guildmaster's Guide to Ravnica
 
 *Wondrous item, uncommon (requires attunement)*
@@ -2322,7 +2147,6 @@ Source: Guildmaster's Guide to Ravnica
 This headpiece, crafted from dark metal, is worn curved around the ear. If you know a creature wearing another *spies' murmur* and that creature is within 1 mile of you, you can communicate telepathically with each other. As a bonus action, you can allow that creature to hear everything you hear for 1 hour. You can end this effect as a bonus action, and it ends if you're incapacitated.
 
 ## Staff of the Adder
-Staff (Attuned)
 Source: Dungeon Master's Guide
 
 *Staff, uncommon (requires attunement by a cleric, druid, or warlock)*
@@ -2334,7 +2158,6 @@ You can make a melee attack using the snake head, which has a reach of 5 feet. Y
 The snake head can be attacked while it is animate. It has an Armor Class of 15 and 20 hit points. If the head drops to 0 hit points, the staff is destroyed. As long as it's not destroyed, the staff regains all lost hit points when it reverts to its inanimate form.
 
 ## Staff of the Python
-Staff (Attuned)
 Source: Dungeon Master's Guide
 
 *Staff, uncommon (requires attunement by a cleric, druid, or warlock)*
@@ -2346,7 +2169,6 @@ On your turn, you can mentally command the snake if it is within 60 feet of you 
 If the snake is reduced to 0 hit points, it dies and reverts to its staff form. The staff then shatters and is destroyed. If the snake reverts to staff form before losing all its hit points, it regains all of them.
 
 ## Stone of Good Luck (Luckstone)
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -2354,7 +2176,6 @@ Source: Dungeon Master's Guide
 While this polished agate is on your person, you gain a + 1 bonus to ability checks and saving throws.
 
 ## Stone of Ill Luck
-Wondrous Item (Attuned)
 Source: Tales from the Yawning Portal
 
 *Wondrous item, uncommon (requires attunement)*
@@ -2364,7 +2185,6 @@ This polished agate appears to be a [Stone of Good Luck](http://dnd5e.wikidot.co
 ***Curse.*** This item is cursed. While it is on your person, you take a -2 penalty to ability checks and saving throws. Until the curse is discovered, the DM secretly applies this penalty, assuming you are adding the item's bonus. You are unwilling to part with the stone until the curse is broken with remove curse or similar magic.
 
 ## Storm Boomerang
-Weapon
 Source: Princes of the Apocalypse
 
 *Weapon, uncommon*
@@ -2374,7 +2194,6 @@ This boomerang is a ranged weapon carved from griffon bone and etched with the s
 Once the boomerang deals thunder damage to a target, the weapon loses its ability to deal thunder damage and its ability to stun a target. These properties return after the boomerang spends at least 1 hour inside an elemental air node.
 
 ## Sword of Vengeance
-Weapon (Attuned)
 Source: Dungeon Master's Guide
 
 *Weapon (any sword), uncommon (requires attunement)*
@@ -2388,7 +2207,6 @@ In addition, while the sword is on your person, you must succeed on a DC 15 Wisd
 You can break the curse in the usual ways. Alternatively, casting [Banishment](http://dnd5e.wikidot.com/spell:banishment) on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.
 
 ## Thessaltoxin Antidote
-Potion
 Source: Infernal Machine Rebuild
 
 *Potion, uncommon*
@@ -2396,7 +2214,6 @@ Source: Infernal Machine Rebuild
 This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the [Polymorph](http://dnd5e.wikidot.com/spell:polymorph) effect imposed by thessaltoxin.
 
 ## Trident of Fish Command
-Weapon (Attuned)
 Source: Dungeon Master's Guide
 
 *Weapon (trident), uncommon (requires attunement)*
@@ -2404,7 +2221,6 @@ Source: Dungeon Master's Guide
 This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast [Dominate Beast](http://dnd5e.wikidot.com/spell:dominate-beast) (save DC 15) from it on a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.
 
 ## Wand of Entangle
-Wand (Attuned)
 Source: Tales from the Yawning Portal
 
 *Wand, uncommon (requires attunement by a spellcaster)*
@@ -2414,7 +2230,6 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ## Wand of Magic Detection
-Wand
 Source: Dungeon Master's Guide
 
 *Wand, uncommon*
@@ -2422,7 +2237,6 @@ Source: Dungeon Master's Guide
 This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the [Detect Magic](http://dnd5e.wikidot.com/spell:detect-magic) spell from it. The wand regains 1d3 expended charges daily at dawn.
 
 ## Wand of Magic Missiles
-Wand
 Source: Dungeon Master's Guide
 
 *Wand, uncommon*
@@ -2432,7 +2246,6 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 or 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ## Wand of Secrets
-Wand
 Source: Dungeon Master's Guide
 
 *Wand, uncommon*
@@ -2440,7 +2253,6 @@ Source: Dungeon Master's Guide
 The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand regains 1d3 expended charges daily at dawn.
 
 ## Wand of the War Mage
-Wand (Attuned)
 Source: Dungeon Master's Guide
 
 *Wand, uncommon (+1), rare (+2), or very rare (+3) (requires attunement by a spellcaster)*
@@ -2448,7 +2260,6 @@ Source: Dungeon Master's Guide
 While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
 
 ## Wand of Web
-Wand (Attuned)
 Source: Dungeon Master's Guide
 
 *Wand, uncommon (requires attunement by a spellcaster)*
@@ -2458,7 +2269,6 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ## Weapon, +1, +2, or +3
-Weapon
 Source: Dungeon Master's Guide
 
 *Weapon (any), uncommon (+1), rare (+2), or very rare (+3)*
@@ -2466,7 +2276,6 @@ Source: Dungeon Master's Guide
 You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon's rarity.
 
 ## Weapon of Warning
-Weapon (Attuned)
 Source: Dungeon Master's Guide
 
 *Weapon (any), uncommon (requires attunement)*
@@ -2474,7 +2283,6 @@ Source: Dungeon Master's Guide
 This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
 
 ## Wheel of Wind and Water
-Wondrous Item
 Source: Eberron - Rising from the Last War
 
 *Wondrous item, uncommon*
@@ -2484,7 +2292,6 @@ When mounted at the helm of an elemental galleon or airship, this wheel allows a
 If a *wheel of wind and water* is mounted on a mundane sailing ship, a creature with the Mark of Storm who is using the wheel can create an area of ideal conditions around the vessel, increasing its speed by 5 miles per hour.
 
 ## Wildspace Orrery
-Wondrous Item
 Source: Spelljammer: Adventures in Space - Astral Adventurer's Guide
 
 *Wondrous item, Uncommon*
@@ -2492,7 +2299,6 @@ Source: Spelljammer: Adventures in Space - Astral Adventurer's Guide
 Inside a Wildspace system, this portable arcane device automatically tracks the positions and movements of all suns, planets, moons, and comets within that system, projecting a display of all these bodies in the space above its current location. In that display, a white, pulsating pinprick of light marks the orrery's location.
 
 ## Wind Fan
-Wondrous Item
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon*
@@ -2500,7 +2306,6 @@ Source: Dungeon Master's Guide
 While holding this fan, you can use an action to cast the [Gust of Wind](http://dnd5e.wikidot.com/spell:gust-of-wind) spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.
 
 ## Winged Ammunition
-Weapon
 Source: The Book of Many Things
 
 *Weapon (any ammunition), uncommon*
@@ -2508,7 +2313,6 @@ Source: The Book of Many Things
 Ranged weapon attack rolls made with this ammunition ignore half and three-quarters cover. In addition, attacking at long range doesn’t impose disadvantage on ranged weapon attack rolls made with this ammunition.
 
 ## Winged Boots
-Wondrous Item (Attuned)
 Source: Dungeon Master's Guide
 
 *Wondrous item, uncommon (requires attunement)*
@@ -2518,7 +2322,6 @@ While you wear these boots, you have a flying speed equal to your walking speed.
 The boots regain 2 hours of flying capability for every 12 hours they aren't in use.
 
 ## Wingwear
-Wondrous Item (Attuned)
 Source: Princes of the Apocalypse
 
 *Wondrous item, uncommon (requires attunement)*
@@ -2528,7 +2331,6 @@ This snug uniform has symbols of air stitched into it and leathery flaps that st
 The suit regains all of its expended charges after spending at least 1 hour in an elemental air node.
 
 ## Witherbloom Primer
-Wondrous Item (Attuned)
 Source: Strixhaven: A Curriculum of Chaos
 
 *Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)*
@@ -2538,7 +2340,6 @@ The *Witherbloom Primer* is a magic textbook created at Strixhaven's Witherbloom
 In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the [Druid](http://dnd5e.wikidot.com/spells:druid) or [Wizard](http://dnd5e.wikidot.com/spells:wizard) spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.
 
 ## Wraps Of Unarmed Prowess
-Wondrous Item
 Source: The Book of Many Things
 
 *Wondrous Item, varies*
@@ -2550,4 +2351,3 @@ While you’re wearing these cloth wraps, your unarmed strikes are considered ma
 |Uncommon | \+1 |
 |  Rare   | \+2 |
 |Very Rare| \+3 |
-
